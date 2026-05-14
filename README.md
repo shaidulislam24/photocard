@@ -30,7 +30,7 @@ A web-based tool for creating beautiful, customizable photo cards and social med
 ## Installation & Setup
 
 ### Option 1: Online Version
-Visit [photocard.aminul.dev](https://photocard.aminul.dev) to use the tool directly in your browser.
+Visit https://newsphotocard.vercel.app/ to use the tool directly in your browser.
 
 ### Option 2: Local Development
 1. Clone the repository:
@@ -112,14 +112,6 @@ To add a new template:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
-
-**Aminul Islam**
-- Website: [aminul.net](https://aminul.net)
-- GitHub: [@AminulBD](https://github.com/AminulBD)
-- Facebook: [@aminul.run](https://www.facebook.com/aminul.run)
-- X: [@AminulWP](https://x.com/AminulWP)
-- LinkedIn: [@aminulbd](https://www.linkedin.com/in/aminulbd)
 
 ## Acknowledgments
 
